@@ -728,7 +728,7 @@
                 {
                     "name": "quickhackInfo",
                     "type": "name",
-                    "value": "IK_Z",
+                    "value": "IK_Q",
                     "default_value": "IK_Z"
                 },
                 {
@@ -758,19 +758,19 @@
                 {
                     "name": "selectUp",
                     "type": "name",
-                    "value": "IK_Q",
+                    "value": "IK_R",
                     "default_value": "IK_Q"
                 },
                 {
                     "name": "selectDown",
                     "type": "name",
-                    "value": "IK_E",
+                    "value": "IK_F",
                     "default_value": "IK_E"
                 },
                 {
                     "name": "selectChoiceUI",
                     "type": "name",
-                    "value": "IK_F",
+                    "value": "IK_E",
                     "default_value": "IK_F"
                 }
             ]
