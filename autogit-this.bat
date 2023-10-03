@@ -11,4 +11,3 @@ IF /I "%1" == "loop" (
     git commit -am "%date% at %time:~0,2%:%time:~3,2%:%time:~6,2%"
     goto loop
 )
-exit
