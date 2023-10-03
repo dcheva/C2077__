@@ -932,8 +932,8 @@
                     "name": "GameDifficulty",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "Easy",
-                    "index": 1,
+                    "value": "Hard",
+                    "index": 2,
                     "default_index": 2,
                     "values": [
                         "Story",
