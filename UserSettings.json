@@ -303,13 +303,13 @@
                 {
                     "name": "dodgeDash",
                     "type": "name",
-                    "value": "IK_Tilde",
+                    "value": "IK_MiddleMouse",
                     "default_value": "IK_LControl"
                 },
                 {
                     "name": "switchItem",
                     "type": "name",
-                    "value": "IK_MiddleMouse",
+                    "value": "IK_B",
                     "default_value": "IK_Alt"
                 },
                 {
@@ -327,7 +327,7 @@
                 {
                     "name": "holsterWeapon",
                     "type": "name",
-                    "value": "IK_B",
+                    "value": "IK_H",
                     "default_value": "IK_B"
                 },
                 {
@@ -435,7 +435,7 @@
                 {
                     "name": "hub",
                     "type": "name",
-                    "value": "IK_H",
+                    "value": "IK_O",
                     "default_value": "IK_H"
                 },
                 {
@@ -764,13 +764,13 @@
                 {
                     "name": "selectDown",
                     "type": "name",
-                    "value": "IK_F",
+                    "value": "IK_E",
                     "default_value": "IK_E"
                 },
                 {
                     "name": "selectChoiceUI",
                     "type": "name",
-                    "value": "IK_E",
+                    "value": "IK_F",
                     "default_value": "IK_F"
                 }
             ]
@@ -1885,7 +1885,7 @@
                 {
                     "name": "QuickMapFilter",
                     "type": "int",
-                    "value": 10,
+                    "value": 15,
                     "default_value": 6,
                     "min_value": 0,
                     "max_value": 16,
@@ -1894,7 +1894,7 @@
                 {
                     "name": "CustomMapFilter",
                     "type": "int",
-                    "value": 160,
+                    "value": 225,
                     "default_value": 0,
                     "min_value": 0,
                     "max_value": 1000000,
