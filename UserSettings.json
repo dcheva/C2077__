@@ -291,7 +291,7 @@
                 {
                     "name": "crouchHold",
                     "type": "name",
-                    "value": "IK_V",
+                    "value": "IK_B",
                     "default_value": "IK_RControl"
                 },
                 {
@@ -690,7 +690,7 @@
                 {
                     "name": "VehicleTPPCameraAutoResetTimeV2",
                     "type": "float",
-                    "value": 1.0,
+                    "value": 0.1000000014,
                     "default_value": 3.0,
                     "min_value": 0.1000000014,
                     "max_value": 10.0,
@@ -932,8 +932,8 @@
                     "name": "GameDifficulty",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "Hard",
-                    "index": 2,
+                    "value": "VeryHard",
+                    "index": 3,
                     "default_index": 2,
                     "values": [
                         "Story",
@@ -1264,7 +1264,7 @@
                 {
                     "name": "FPP_MouseX",
                     "type": "float",
-                    "value": 20.0,
+                    "value": 30.0,
                     "default_value": 5.0,
                     "min_value": 1.0,
                     "max_value": 30.0,
@@ -1279,7 +1279,7 @@
                 {
                     "name": "FPP_MouseY",
                     "type": "float",
-                    "value": 20.0,
+                    "value": 30.0,
                     "default_value": 5.0,
                     "min_value": 1.0,
                     "max_value": 30.0,
