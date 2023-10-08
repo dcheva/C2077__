@@ -482,7 +482,7 @@
                 {
                     "name": "MasterVolume",
                     "type": "int",
-                    "value": 100,
+                    "value": 50,
                     "default_value": 100,
                     "min_value": 0,
                     "max_value": 100,
@@ -1885,7 +1885,7 @@
                 {
                     "name": "QuickMapFilter",
                     "type": "int",
-                    "value": 4,
+                    "value": 9,
                     "default_value": 6,
                     "min_value": 0,
                     "max_value": 16,
