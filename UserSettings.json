@@ -327,7 +327,7 @@
                 {
                     "name": "holsterWeapon",
                     "type": "name",
-                    "value": "IK_H",
+                    "value": "IK_5",
                     "default_value": "IK_B"
                 },
                 {
