@@ -482,7 +482,7 @@
                 {
                     "name": "MasterVolume",
                     "type": "int",
-                    "value": 50,
+                    "value": 75,
                     "default_value": 100,
                     "min_value": 0,
                     "max_value": 100,
@@ -1721,8 +1721,8 @@
                     "name": "SpeakerSetup",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "Headphones",
-                    "index": 1,
+                    "value": "SmallSpeakers",
+                    "index": 3,
                     "default_index": 1,
                     "values": [
                         "HomeCinema",
