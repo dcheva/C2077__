@@ -1721,8 +1721,8 @@
                     "name": "SpeakerSetup",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "SmallSpeakers",
-                    "index": 3,
+                    "value": "Headphones",
+                    "index": 1,
                     "default_index": 1,
                     "values": [
                         "HomeCinema",
@@ -1885,7 +1885,7 @@
                 {
                     "name": "QuickMapFilter",
                     "type": "int",
-                    "value": 10,
+                    "value": 4,
                     "default_value": 6,
                     "min_value": 0,
                     "max_value": 16,
@@ -1894,7 +1894,7 @@
                 {
                     "name": "CustomMapFilter",
                     "type": "int",
-                    "value": 0,
+                    "value": 512,
                     "default_value": 0,
                     "min_value": 0,
                     "max_value": 1000000,
@@ -2319,7 +2319,7 @@
                 {
                     "name": "RayTracing",
                     "type": "bool",
-                    "value": false,
+                    "value": true,
                     "default_value": false
                 },
                 {
