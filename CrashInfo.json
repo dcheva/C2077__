@@ -1,0 +1,21 @@
+{
+	"RootType": "gameTelemetryPostMortemContainer",
+	"Data": {
+		"postMortem": {
+			"crashVisitId": "f3e639b7-002f-4995-8d5c-7d8590b67e8d",
+			"playthroughId": "651b716519576b24",
+			"crashVersion": "4902785",
+			"crashPatch": "2.0",
+			"timeCrash": "2023-10-14T09:34:48Z",
+			"location": {
+				"X": -363.962097,
+				"Y": -19.447708,
+				"Z": 8.815514
+			},
+			"district": "CharterHill",
+			"zoneType": "RESTRICTED",
+			"sessionLength": 13831.743164,
+			"isOom": false
+		}
+	}
+}
