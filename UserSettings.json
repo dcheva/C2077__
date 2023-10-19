@@ -932,8 +932,8 @@
                     "name": "GameDifficulty",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "Easy",
-                    "index": 1,
+                    "value": "Hard",
+                    "index": 2,
                     "default_index": 2,
                     "values": [
                         "Story",
@@ -1894,7 +1894,7 @@
                 {
                     "name": "CustomMapFilter",
                     "type": "int",
-                    "value": 144015,
+                    "value": 209551,
                     "default_value": 0,
                     "min_value": 0,
                     "max_value": 1000000,
