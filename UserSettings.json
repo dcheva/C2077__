@@ -690,7 +690,7 @@
                 {
                     "name": "VehicleTPPCameraAutoResetTimeV2",
                     "type": "float",
-                    "value": 0.1000000014,
+                    "value": 0.6000000238,
                     "default_value": 3.0,
                     "min_value": 0.1000000014,
                     "max_value": 10.0,
