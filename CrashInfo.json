@@ -1,0 +1,28 @@
+{
+	"RootType": "gameTelemetryPostMortemContainer",
+	"Data": {
+		"postMortem": {
+			"crashVisitId": "126af0f4-6285-43b5-bd42-ee9f4365eb78",
+			"playthroughId": "6530248acb39a6e3",
+			"crashVersion": "4912681",
+			"crashPatch": "2.01",
+			"timeCrash": "2023-10-21T15:04:23Z",
+			"trackedQuest": {
+				"name": "q101_resurrection",
+				"objectiveName": "meet_with_takemura",
+				"type": "Q",
+				"questName": "",
+				"questType": ""
+			},
+			"location": {
+				"X": -1401.934326,
+				"Y": 1291.868042,
+				"Z": 120.674248
+			},
+			"district": "LittleChina",
+			"zoneType": "None",
+			"sessionLength": 7942.012207,
+			"isOom": false
+		}
+	}
+}
