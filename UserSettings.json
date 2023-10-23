@@ -690,7 +690,7 @@
                 {
                     "name": "VehicleTPPCameraAutoResetTimeV2",
                     "type": "float",
-                    "value": 1.0,
+                    "value": 0.1000000014,
                     "default_value": 3.0,
                     "min_value": 0.1000000014,
                     "max_value": 10.0,
@@ -932,8 +932,8 @@
                     "name": "GameDifficulty",
                     "type": "string_list",
                     "is_dynamic": false,
-                    "value": "Hard",
-                    "index": 2,
+                    "value": "VeryHard",
+                    "index": 3,
                     "default_index": 2,
                     "values": [
                         "Story",
@@ -1894,7 +1894,7 @@
                 {
                     "name": "CustomMapFilter",
                     "type": "int",
-                    "value": 209804,
+                    "value": 750543,
                     "default_value": 0,
                     "min_value": 0,
                     "max_value": 1000000,
