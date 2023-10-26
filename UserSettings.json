@@ -1894,7 +1894,7 @@
                 {
                     "name": "CustomMapFilter",
                     "type": "int",
-                    "value": 209800,
+                    "value": 209672,
                     "default_value": 0,
                     "min_value": 0,
                     "max_value": 1000000,
