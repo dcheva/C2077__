@@ -1,0 +1,29 @@
+{
+	"RootType": "gameTelemetryPostMortemContainer",
+	"Data": {
+		"postMortem": {
+			"crashVisitId": "1c328646-d971-4a33-ade9-015d0c71cc74",
+			"playthroughId": "651b716519576b24",
+			"crashVersion": "4912681",
+			"crashPatch": "2.01",
+			"timeCrash": "2023-10-31T06:20:37Z",
+			"trackedQuest": {
+				"name": "q115",
+				"objectiveName": "02_meet_hanako",
+				"type": "Q",
+				"distance": 1631.000000,
+				"questName": "",
+				"questType": ""
+			},
+			"location": {
+				"X": -1445.919312,
+				"Y": 1056.951416,
+				"Z": 24.817337
+			},
+			"district": "LittleChina",
+			"zoneType": "None",
+			"sessionLength": 18248.201172,
+			"isOom": false
+		}
+	}
+}
