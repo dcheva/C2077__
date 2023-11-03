@@ -303,7 +303,7 @@
                 {
                     "name": "dodgeDash",
                     "type": "name",
-                    "value": "IK_MiddleMouse",
+                    "value": "IK_Q",
                     "default_value": "IK_LControl"
                 },
                 {
@@ -369,7 +369,7 @@
                 {
                     "name": "quickmelee",
                     "type": "name",
-                    "value": "IK_Q",
+                    "value": "IK_X",
                     "default_value": "IK_Q"
                 },
                 {
@@ -381,7 +381,7 @@
                 {
                     "name": "iconic",
                     "type": "name",
-                    "value": "IK_X",
+                    "value": "IK_I",
                     "default_value": "IK_E"
                 },
                 {
@@ -858,8 +858,8 @@
                     "name": "QuickPresets",
                     "type": "string_list",
                     "is_dynamic": true,
-                    "value": "Custom",
-                    "index": 0
+                    "value": "Low",
+                    "index": 1
                 },
                 {
                     "name": "TextureQuality",
